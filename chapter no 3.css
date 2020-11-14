@@ -1,0 +1,32 @@
+th{
+	border: solid blue;
+	column-fill: auto;
+column-rule-color: blue;
+}
+th#hover{
+	background-color: darkblue;
+}
+table{
+    width: 700px;
+    padding:20px;
+  
+}
+fieldset{
+	width: 300px;
+}
+td{
+    padding: 5px;
+  
+}
+tr:hover{
+    background-color: rgb(116, 178, 243);
+}
+legend{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 20px;
+
+}
+.submit {
+	width: 310px;
+	text-align: right;}
+
